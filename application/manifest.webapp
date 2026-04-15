@@ -1,0 +1,27 @@
+{
+  "name": "QQ Lite KaiOS",
+  "short_name": "QQ Lite",
+  "description": "基于 QQ Lite 交互风格的 KaiOS 版本。",
+  "version": "0.1.0",
+  "launch_path": "/index.html",
+  "display": "fullscreen",
+  "orientation": "portrait-primary",
+  "icons": {
+    "56": "/icons/icon-56.png",
+    "112": "/icons/icon-112.png"
+  },
+  "developer": {
+    "name": "onebotqq_kaios"
+  },
+  "permissions": {
+    "internet": {},
+    "systemXHR": {}
+  },
+  "default_locale": "zh-CN",
+  "locales": {
+    "zh-CN": {
+      "name": "QQ Lite KaiOS",
+      "description": "兼容诺基亚 8110 按键的 QQ Lite 客户端。"
+    }
+  }
+}
