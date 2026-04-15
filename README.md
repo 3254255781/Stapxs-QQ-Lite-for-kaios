@@ -1,8 +1,8 @@
 # onebotqq_kaios
 
 Stapxs QQ Lite(onebot) for kaios
-基于Stapxs QQ Lite项目移植的kaios客户端
-建议阅读Stapxs QQ Lite的使用方法
+基于<a href="https://github.com/Stapxs/Stapxs-QQ-Lite-2.0">Stapxs QQ Lite</a>项目移植的kaios客户端
+建议阅读<a href="https://github.com/Stapxs/Stapxs-QQ-Lite-2.0">Stapxs QQ Lite</a>的使用方法
 ## Update
 <details>
 <summary>更新日志</summary>
